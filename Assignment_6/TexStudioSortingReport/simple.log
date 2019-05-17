@@ -1,0 +1,215 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.4.10)  16 MAY 2019 17:35
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**simple.bib
+(./simple.bib
+LaTeX2e <2018-12-01>
+
+./simple.bib:11: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 @
+      url{https://brilliant.org/wiki/bubble-sort/,
+? 
+./simple.bib:11: Emergency stop.
+ ...                                              
+                                                  
+l.11 @
+      url{https://brilliant.org/wiki/bubble-sort/,
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+ 
+Here is how much of TeX's memory you used:
+ 6 strings out of 492623
+ 254 string characters out of 6129552
+ 57410 words of memory out of 5000000
+ 4018 multiletter control sequences out of 15000+600000
+ 3640 words of font info for 14 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 5i,0n,4p,72b,14s stack positions out of 5000i,500n,10000p,200000b,80000s
+./simple.bib:11:  ==> Fatal error occurred, no output PDF file produced!
+ist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(./simple.aux)
+\openout1 = `simple.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+
+(/usr/local/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count88
+\scratchdimen=\dimen105
+\scratchbox=\box27
+\nofMPsegments=\count89
+\nofMParguments=\count90
+\everyMPshowfont=\toks15
+\MPscratchCnt=\count91
+\MPscratchDim=\dimen106
+\MPnumerator=\count92
+\makeMPintoPDFobject=\count93
+\everyMPtoPDFconversion=\toks16
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key va character: There is no n in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no N in font nullfont!
+Missing character: There is no Z in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no = in font nullfont!
+./simple.bib:4: Undefined control sequence.
+l.4     howpublished = {\url
+                            {http://fs.fish.govt.nz/Page.aspx?pk=7&sc=SUR}},
+? 
+./simple.bib:4: Emergency stop.
+l.4     howpublished = {\url
+                            {http://fs.fish.govt.nz/Page.aspx?pk=7&sc=SUR}},
+End of file on the terminal!
+
+ 
+Here is how much of TeX's memory you used:
+ 5 strings out of 492623
+ 121 string characters out of 6129552
+ 57410 words of memory out of 5000000
+ 4018 multiletter control sequences out of 15000+600000
+ 3640 words of font info for 14 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 5i,0n,4p,85b,14s stack positions out of 5000i,500n,10000p,200000b,80000s
+./simple.bib:4:  ==> Fatal error occurred, no output PDF file produced!
+`cmex10' loaded for size
+(Font)              <8> on input line 55.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 55.
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--56
+
+ []
+
+<bs.png, id=13, 547.04375pt x 76.285pt>
+File: bs.png Graphic file (type png)
+<use bs.png>
+Package pdftex.def Info: bs.png  used on input line 59.
+(pdftex.def)             Requested size: 272.99881pt x 38.07022pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
+
+ []
+
+<ss.png, id=14, 545.03625pt x 70.2625pt>
+File: ss.png Graphic file (type png)
+<use ss.png>
+Package pdftex.def Info: ss.png  used on input line 68.
+(pdftex.def)             Requested size: 272.99881pt x 35.19333pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--75
+
+ []
+
+[2 <./fread.png> <./bs.png>]
+<is.png, id=21, 546.04pt x 70.2625pt>
+File: is.png Graphic file (type png)
+<use is.png>
+Package pdftex.def Info: is.png  used on input line 78.
+(pdftex.def)             Requested size: 272.99881pt x 35.12793pt.
+<ms.png, id=22, 546.04pt x 70.2625pt>
+File: ms.png Graphic file (type png)
+<use ms.png>
+Package pdftex.def Info: ms.png  used on input line 86.
+(pdftex.def)             Requested size: 272.99881pt x 35.12793pt.
+<qs.png, id=23, 551.05875pt x 72.27pt>
+File: qs.png Graphic file (type png)
+<use qs.png>
+Package pdftex.def Info: qs.png  used on input line 94.
+(pdftex.def)             Requested size: 272.99881pt x 35.80408pt.
+ [3 <./ss.png> <./is.png> <./ms.png>] [4 <./qs.png>] (./simple.aux) ) 
+Here is how much of TeX's memory you used:
+ 1553 strings out of 492623
+ 22374 string characters out of 6129552
+ 85432 words of memory out of 5000000
+ 5463 multiletter control sequences out of 15000+600000
+ 9109 words of font info for 32 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,6n,25p,513b,312s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/loca
+l/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local
+/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/
+texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/te
+xlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texl
+ive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texliv
+e/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb>
+Output written on simple.pdf (4 pages, 109945 bytes).
+PDF statistics:
+ 54 PDF objects out of 1000 (max. 8388607)
+ 29 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
+
